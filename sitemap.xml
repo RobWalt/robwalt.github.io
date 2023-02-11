@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://robwalt.dev/</loc>
+    </url>
+    <url>
+        <loc>https://robwalt.dev/about/</loc>
+    </url>
+    <url>
+        <loc>https://robwalt.dev/books/</loc>
+    </url>
+    <url>
+        <loc>https://robwalt.dev/donations/</loc>
+    </url>
+    <url>
+        <loc>https://robwalt.dev/posts/</loc>
+    </url>
+    <url>
+        <loc>https://robwalt.dev/tags/</loc>
+    </url>
+    <url>
+        <loc>https://robwalt.dev/tags/school/</loc>
+    </url>
+    <url>
+        <loc>https://robwalt.dev/tags/teaching/</loc>
+    </url>
+    <url>
+        <loc>https://robwalt.dev/tags/voluntary/</loc>
+    </url>
+    <url>
+        <loc>https://robwalt.dev/voluntary/</loc>
+    </url>
+    <url>
+        <loc>https://robwalt.dev/voluntary/dks/</loc>
+        <lastmod>2023-01-29</lastmod>
+    </url>
+</urlset>
